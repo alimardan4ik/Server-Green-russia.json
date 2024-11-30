@@ -1,0 +1,23 @@
+[
+    {
+      "color": "FF0000",
+      "dopname": "(X2 АКЦИИ)",
+      "maxonline": 500,
+      "name": "RED",
+      "online": 120,
+      "host": "65.108.99.34",
+      "port": 1165
+    }
+
+    {
+      "color": "FFFFFF
+
+",
+      "dopname": "(X2 АКЦИИ)",
+      "maxonline": 0,
+      "name": "TEST",
+      "online": 0,
+      "host": "65.108.99.34",
+      "port": 1165
+    }
+  ]
